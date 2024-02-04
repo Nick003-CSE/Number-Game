@@ -1,0 +1,1 @@
+An interactive game in which the user has to follow certain rules and guess the correct number in order to win. There are different levels of difficulties which the user can change according to their choice.
